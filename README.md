@@ -1,5 +1,5 @@
 # CI4 project
 - tugas 4
-![img](screnshoot/tugas 4.png.png)
+![img1](screnshoot/tugas 4.png.png)
 - tugas 5
-![img](screnshoot/tugas 5.png.png)
+![img2](screnshoot/tugas 5.png.png)
